@@ -141,7 +141,14 @@
   <ItemGroup>
     <ClCompile Include="aboutString.cpp" />
     <ClCompile Include="array.cpp" />
+    <ClCompile Include="dynamicPointer.cpp" />
+    <ClCompile Include="enum.cpp" />
     <ClCompile Include="getData.cpp" />
+    <ClCompile Include="newPointer.cpp" />
+    <ClCompile Include="pointer.cpp" />
+    <ClCompile Include="charPointer.cpp" />
+    <ClCompile Include="structure.cpp" />
+    <ClCompile Include="union.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
