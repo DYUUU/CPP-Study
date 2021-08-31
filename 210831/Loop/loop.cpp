@@ -1,9 +1,8 @@
 #include <iostream>
-#include <time.h>
 
 using namespace std;
 
-int main()
+int main_loop()
 {
 	// 반복문이란?
 	/*char arr[10] = { 'a','b' ,'c' ,'d' ,'e' };
