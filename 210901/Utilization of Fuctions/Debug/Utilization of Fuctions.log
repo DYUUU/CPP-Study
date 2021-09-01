@@ -1,0 +1,4 @@
+﻿  func_teplet.cpp
+D:\Dev\c,c++\c++\CPP Study\210901\Utilization of Fuctions\func_teplet.cpp(19,16): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\Dev\c,c++\c++\CPP Study\210901\Utilization of Fuctions\func_teplet.cpp(20,17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Utilization of Fuctions.vcxproj -> D:\Dev\c,c++\c++\CPP Study\210901\Utilization of Fuctions\Debug\Utilization of Fuctions.exe
