@@ -143,6 +143,7 @@
     <ClCompile Include="func_teplet.cpp" />
     <ClCompile Include="inline_default_func.cpp" />
     <ClCompile Include="reference.cpp" />
+    <ClCompile Include="test.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
